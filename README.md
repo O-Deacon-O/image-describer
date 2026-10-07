@@ -27,13 +27,11 @@ A small Gradio app that uploads an image and uses a multimodal vision-language m
 
 1. Clone or download the repository.
 2. Create and activate a virtual environment:
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate  # On Windows
-# source .venv/bin/activate  # On macOS/Linux
-```
-
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate  # On Windows
+   # source .venv/bin/activate  # On macOS/Linux
+   ```
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
