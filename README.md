@@ -25,10 +25,13 @@ A small Gradio app that uploads an image and uses a multimodal vision-language m
 
 ## Installation
 
-1. Clone or download the repository.
-2. Create and activate a virtual environment:
+1. Clone or download the repository:
+```bash
+git clone https://github.com/O-Deacon-O/image-describer.git
+```
+3. Create and activate a virtual environment:
  ```bash
-  python -m venv .venv
+ python -m venv .venv
  .venv\Scripts\activate  # On Windows
  # source .venv/bin/activate  # On macOS/Linux
   ```
@@ -45,8 +48,8 @@ python src/main.py
 ```
 
 **On startup:**
-- A Gradio interface will pop up in your default browser. 
-- Upload an image and the app will generate a description.
+- A Gradio interface will pop up in your default browser 
+- Upload an image and the app will generate a description
 
 ## Configuration
 
