@@ -29,7 +29,7 @@ A small Gradio app that uploads an image and uses a multimodal vision-language m
 ```bash
 git clone https://github.com/O-Deacon-O/image-describer.git
 ```
-3. Create and activate a virtual environment:
+2. Create and activate a virtual environment:
  ```bash
  python -m venv .venv
  .venv\Scripts\activate  # On Windows
