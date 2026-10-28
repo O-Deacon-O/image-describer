@@ -2,10 +2,12 @@
 
 A small Gradio app that uploads an image and uses a multimodal vision-language model to generate a text description.
 
+<img src="assets/ui.png" alt="ui" width="1919" height="851" />
+
 ## Features
 
 - Upload an image from your computer
-- Generate a natural-language description with a Hugging Face vision-language model
+- Generate a natural-language description with a 0.5b Hugging Face vision-language model
 - Adjust the number of tokens used during generation
 - Run locally with a CPU or CUDA-enabled GPU
 
